@@ -1,2 +1,2 @@
 # Git_Training
-This for Git and GitHub training purpose
+This is for Git and GitHub training purpose
