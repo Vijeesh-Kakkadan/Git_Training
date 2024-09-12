@@ -4,3 +4,7 @@ this is sample file 1
 
 
 this is a test commit
+
+
+
+git revert test
